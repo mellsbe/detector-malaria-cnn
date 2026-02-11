@@ -6,8 +6,8 @@ Este projeto utiliza uma **Rede Neural Convolucional (CNN)** para identificar au
 Desenvolvi uma aplicação desktop amigável em **Python (Tkinter)**. O usuário carrega uma imagem de microscopia e recebe o diagnóstico instantâneo com o nível de confiança.
 
 <p align="center">
-<img width="448" height="652" alt="Captura de tela 2026-02-11 142028" src="https://github.com/user-attachments/assets/de5746ce-fba6-4a31-ad23-7316463dc42b" />
 <img width="448" height="653" alt="Captura de tela 2026-02-11 141949" src="https://github.com/user-attachments/assets/279401d2-e124-4184-87a4-69683d95b00d" />
+<img width="448" height="652" alt="Captura de tela 2026-02-11 142028" src="https://github.com/user-attachments/assets/de5746ce-fba6-4a31-ad23-7316463dc42b" />
 </p>
 
 ## Desempenho e Métricas
